@@ -1,5 +1,4 @@
-### Hola Soy Luis Viloria desarrolador en proceso, pronto veras informacion actualizada sobre mi en este perfil👋
-
+### Hola Soy Luis Viloria
 <!--
 **24Viloria/24Viloria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
